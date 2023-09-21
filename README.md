@@ -2,6 +2,8 @@
 framework para gerenciar projetos utilizando práticas e métodos ágeis durante todo o projeto.
 SCRUM - não é uma sigla, e sim um nome dado a uma formação tática de um time de Rugby.
 
+![scrum-team-image](scrum-ceremonies.jpg)
+
 Link de Estudo: https://robsoncamargo.com.br/blog/Manifesto-Agil-entenda-como-surgiu-e-conheca-os-12-principios
 
 	Empirismo - aprender com as proprias experiências
