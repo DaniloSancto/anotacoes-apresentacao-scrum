@@ -24,9 +24,7 @@ pessoa que precisa entender melhor do produto e ter maior comunicação com o cl
 #### Dev Team
 Equipe de desenvolvedores
 
-![[scrum-team-image.png]]
-
-
+![scrum-team-image](scrum-team-image.png)
 ### Artefatos SCRUM
 #### Product Backlog
 documento que tem todas as listas de pendencias que o projeto/produto terá
@@ -37,7 +35,7 @@ atividades que serão trabalhadas dentro de um período de tempo.
 #### Incremento
 itens produzidos na sprint
 
-![[scrum-artifacts.png]]
+![scrum-artifacts](scrum-artifacts.png)
 ### Cerimônias
 
 #### Sprint
